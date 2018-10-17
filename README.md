@@ -11,7 +11,7 @@ _{We created mad-lib accordingly to our daily task.}_
 ## Setup/Installation Requirements
 
 * _Clone repository name calculator to your computer from:
-
+https://github.com/bkindtoall/madlib
 _
 
 ## Known Bugs
